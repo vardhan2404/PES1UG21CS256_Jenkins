@@ -30,3 +30,4 @@ pipeline {
             error 'Pipeline failed'
         }
     }
+}
